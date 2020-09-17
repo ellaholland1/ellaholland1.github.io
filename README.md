@@ -1,6 +1,6 @@
 # ellaholland1.github.io
 
-INSERT IMAGES: ![Profile](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/IMG_2607.JPG?raw=true)
+ ![Profile](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/IMG_2607.JPG?raw=true)
 
 Hi! My name is Ella Holland and I am a freshman in the College of Arts and Sciences at Lehigh University. 
 
