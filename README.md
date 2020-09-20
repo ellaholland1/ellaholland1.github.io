@@ -8,4 +8,4 @@ I am taking the course Data Journalism to learn about the interdisciplinary work
 
 I am from Fairfield, Connecticut, and growing up outside of New York City, I have seen how news stories are necessary to daily life, along with the data that informs it. I am very excited to learn more about storytelling with data, especially in this climate!
 
-> Education is the most powerful weapon which you can use to change the world. - Nelson Mandela
+> _Education is the most powerful weapon which you can use to change the world._ - Nelson Mandela
