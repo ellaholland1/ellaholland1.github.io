@@ -13,6 +13,7 @@ I am from Fairfield, Connecticut, and growing up outside of New York City, I hav
 
 
 
+## Lehigh Student Enrollment 2019
 
 ![Student Enrollment](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Student%20Enrollment.png?raw=true)
 
