@@ -12,4 +12,8 @@ I am from Fairfield, Connecticut, and growing up outside of New York City, I hav
 
 
 
+
+
 ![Student Enrollment](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Student%20Enrollment.png?raw=true)
+
+This data is about Undergraduate Enrollment in the three colleges at Lehigh University. The source can be found at <https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf>
