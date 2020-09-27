@@ -18,3 +18,10 @@ I am from Fairfield, Connecticut, and growing up outside of New York City, I hav
 ![Student Enrollment](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Student%20Enrollment.png?raw=true)
 
 This data is about Undergraduate Enrollment in the several colleges at Lehigh University. Lehigh is known for its competitive engineering program, though it boasts many other majors. The source can be found at <https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf>
+
+
+
+
+## Lehigh Ethnic Makeup Statistics 2019
+
+![Lehigh Diversity Demographics](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Lehigh%20Diversity%20Demographic.png?raw=true)
