@@ -25,3 +25,8 @@ This data is about Undergraduate Enrollment in the several colleges at Lehigh Un
 ## Lehigh Ethnic Makeup Statistics 2019
 
 ![Lehigh Diversity Demographics](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Lehigh%20Diversity%20Demographic.png?raw=true)
+
+Lehigh University is a diverse institution with students from across the globe. In an effort to better understand the ethnic makeup of the university, data collected in 2019 gave insight into the diversity of the campus. The most prevalent ethnic group at the university is white, at 62% of the total population, showing a large majority of students come from a homogeneous background. Surprisingly, the next largest ethnic groups to the university is both non-resident aliens and Hispanics, showing how popular Lehigh is to international students especially. As the list goes on, the sequential ethnic groups dwindle in numbers, with Native Hawaiian and Pacific Islander population at less than 1% of the total. The implications of ethnic diversity at Lehigh are vast and multifaceted, but the culture of the school is dependent on the students and the backgrounds that contribute to it. With a majority of the population being white, Lehigh must make a concious effort to represent as many cultures and backgrounds as possible, and to create inclusion in all aspects of the experience.
+
+For more information about Lehigh statistics, and to visit the source, go to: 
+<https://www1.lehigh.edu/about/university-statistics>
