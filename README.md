@@ -40,6 +40,7 @@ For more information about Lehigh statistics, and to visit the source, go to:
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NFq-JGbI8SXzeEtwwe5dnYv4SLn9i6qIvXpuXSPksbE&font=Fjalla-Average&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+
  ## Human Development Index (HDI) 2018
  
  ![Human_Development_Index_(HDI)_2018_Data_0.496_chartbuilder.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Human_Development_Index_(HDI)_2018_Data_0.496_chartbuilder.png?raw=true)
