@@ -46,5 +46,6 @@ For more information about Lehigh statistics, and to visit the source, go to:
  
 ## Lehigh Undergraduate Enrollment 2015-19 Line Graph
 ![Lehigh Undergrad.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Lehigh%20Undergrad.png?raw=true)
+
  
 
