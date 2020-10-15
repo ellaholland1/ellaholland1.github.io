@@ -37,11 +37,11 @@ For more information about Lehigh statistics, and to visit the source, go to:
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Y-AGfwXBrCVrxDupVtjHrVc16nHkLxuQJVgyUY-DUCY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## The History of Facebook
-
+This timeline shows the evolution of the trailblazer of the online world that is Facebook. Mark Zuckerberg, the company CEO created the company without the intent of creating the world's most globalized platform, but it's turnout changed the course of the virtual world forever. This timeline shows how Facebook began and evolved, and continues to change the world.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NFq-JGbI8SXzeEtwwe5dnYv4SLn9i6qIvXpuXSPksbE&font=Fjalla-Average&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Human Development Index
-
+This data on the Human Development Index in 2018 compares every country in the world in their raw number HDI. The bar graph allows every country to be compared side by side to evaluate the human development index of the entire globe. 
 ![HDI.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/HDI.png?raw=true)
  
 ## Lehigh Undergraduate Enrollment 2015-19 Line Graph
