@@ -38,19 +38,25 @@ For more information about Lehigh statistics, and to visit the source, go to:
 
 ## The History of Facebook
 
-This timeline shows the evolution of the trailblazer of the online world that is Facebook. Mark Zuckerberg, the company CEO created the company without the intent of creating the world's most globalized platform, but it's turnout changed the course of the virtual world forever. This timeline shows how Facebook began and evolved, and continues to change the world.
+This timeline shows the evolution of the trailblazer of the online world that is Facebook. Mark Zuckerberg, the company CEO created the company without the intent of creating the world's most globalized platform, but it's turnout changed the course of the virtual world forever. This timeline shows how Facebook began and evolved, and continues to change the world. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NFq-JGbI8SXzeEtwwe5dnYv4SLn9i6qIvXpuXSPksbE&font=Fjalla-Average&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## Human Development Index
+## Human Development Index 2018
 
-This data on the Human Development Index in 2018 compares every country in the world in their raw number HDI. The bar graph allows every country to be compared side by side to evaluate the human development index of the entire globe. 
+This data on the Human Development Index in 2018 compares every country in the world in their raw number HDI. Human Development Index is a statistic measure that evaluates life expectancy, education, and per capita income indicators to rank countries into tiers, with 0 being the lowest development and 1 the highest. The bar graph allows every country to be compared side by side to evaluate the human development index of the entire globe. The list is in alphabetical order, and therefore shows the spread of values in a very randomized order. 
+
 ![HDI.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/HDI.png?raw=true)
  
 ## Lehigh Undergraduate Enrollment 2015-19 Line Graph
+
+This line graph shows Lehigh Undergraduate Enrollment from 2015-19 in the three undergraduate schools. Known since its beginning as a prominent engineering school, Lehigh engineering enrollment fluctuated over these years to allow for greater enrollment in the business and arts & science schools. These choices may make a statement about Lehigh's hope to create a more holistic approach to education and creating an inclusive feel in the liberal arts. These percentages show how these schools are changing year by year. 
+
 ![Lehigh Undergrad.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Lehigh%20Undergrad.png?raw=true)
 
  ## Harvard Data Parent and Child Income  
+ 
+ 
  ![Harvard Data.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Harvard%20Data.png?raw=true)
 
 
