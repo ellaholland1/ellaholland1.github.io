@@ -54,8 +54,9 @@ This line graph shows Lehigh Undergraduate Enrollment from 2015-19 in the three 
 
 ![Lehigh Undergrad.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Lehigh%20Undergrad.png?raw=true)
 
- ## Harvard Data Parent and Child Income  
+ ## Harvard Data on Parent and Child Income 
  
+ This data shows the correlation between parent and child income, with regard to undergraduate studies. The graph shows a strong correlation between parent and child income, however interestingly enough there are few outliers where children have significantly higher incomes than their parents before them. Generational opportunity shows that children are most likely to have similar income as their parents before them. However, this correlation can be broken many times in the United States when students attend Ivy League or highly competetive schools, oftentimes as first generation students. 
  
  ![Harvard Data.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Harvard%20Data.png?raw=true)
 
