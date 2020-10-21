@@ -60,4 +60,3 @@ This line graph shows Lehigh Undergraduate Enrollment from 2015-19 in the three 
  
  ![Harvard Data.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Harvard%20Data.png?raw=true)
 
-
