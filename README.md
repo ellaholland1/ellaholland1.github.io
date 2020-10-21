@@ -60,3 +60,6 @@ This line graph shows Lehigh Undergraduate Enrollment from 2015-19 in the three 
  
  ![Harvard Data.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Harvard%20Data.png?raw=true)
 
+## Connecticut COVID-19 Confirmed COVID-19 Cases by Date
+
+![CT Covid Cases](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/CT%20Covid%20Cases.png?raw=true)
