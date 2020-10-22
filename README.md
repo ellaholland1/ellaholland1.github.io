@@ -65,3 +65,8 @@ This line graph shows Lehigh Undergraduate Enrollment from 2015-19 in the three 
 My home state of Connecticut faced a lot of adversity when it came to stopping the spread of COVID-19 when cases surged in early spring. I can remember March 12th, unbeknownst to me, my last day of senior year, and the strict quarantine to come for months. Connecticut, and especially my home of Fairfield County live symbiotically with New York City, the epicenter of the virus, facing tremendous loss in early spring. Governor Ned Lamont, and others like Governor Cuomo showed leadership by keeping faith in their communities while having to shut down their economies, something other states were too afraid to do. As this graph shows, since March, Connecticut has been able to "flatten the curve," a phrase that took to everyone's vocabularies this year. After extreme spikes in April, Connecticut has slowed the spread of coronavirus and hopefully can be an example of how to live for the common good in the tumultuous times of this pandemic.
 
 ![CT Covid Cases](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/CT%20Covid%20Cases.png?raw=true)
+
+
+## 2019 World's Top 20 Cycling Cities
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bl2Uelw-jIGjWf3w6VtyjZZg9ve-fmD8" width="640" height="480"></iframe>
