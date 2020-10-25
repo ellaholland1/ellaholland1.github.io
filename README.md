@@ -70,3 +70,7 @@ My home state of Connecticut faced a lot of adversity when it came to stopping t
 ## 2019 World's Top 20 Cycling Cities
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bl2Uelw-jIGjWf3w6VtyjZZg9ve-fmD8" width="640" height="480"></iframe>
+
+## Top 10 Most Visited Cities in Europe
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1PtC6RSuycZyuysgZvjEgw-xkfcg0u-cG" width="640" height="480"></iframe>
