@@ -13,17 +13,6 @@ I am from Fairfield, Connecticut, and growing up outside of New York City, I hav
 > _Education is the most powerful weapon which you can use to change the world._ - Nelson Mandela
 
 
-
-
-## Lehigh Student Enrollment 2019
-
-![Student Enrollment](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Student%20Enrollment.png?raw=true)
-
-This data is about Undergraduate Enrollment in the several colleges at Lehigh University. Lehigh is known for its competitive engineering program, though it boasts many other majors. The source can be found at <https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf>
-
-
-
-
 ## Lehigh Ethnic Makeup Statistics 2019
 
 ![Lehigh Diversity Demographics](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Lehigh%20Diversity%20Demographic.png?raw=true)
@@ -50,12 +39,7 @@ This data on the Human Development Index in 2018 compares every country in the w
 
 ![HDI.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/HDI.png?raw=true)
  
-## Lehigh Undergraduate Enrollment 2015-19 Line Graph
-
-This line graph shows Lehigh Undergraduate Enrollment from 2015-19 in the three undergraduate schools. Known since its beginning as a prominent engineering school, Lehigh engineering enrollment fluctuated over these years to allow for greater enrollment in the business and arts & science schools. These choices may make a statement about Lehigh's hope to create a more holistic approach to education and creating an inclusive feel in the liberal arts. These percentages show how these schools are changing year by year. 
-
-![Lehigh Undergrad.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Lehigh%20Undergrad.png?raw=true)
-
+ 
  ## Harvard Data on Parent and Child Income 
  
  This data shows the correlation between parent and child income, with regard to undergraduate studies. The graph shows a strong correlation between parent and child income, however interestingly enough there are few outliers where children have significantly higher incomes than their parents before them. Generational opportunity shows that children are most likely to have similar income as their parents before them. However, this correlation can be broken many times in the United States when students attend Ivy League or highly competetive schools, oftentimes as first generation students. 
