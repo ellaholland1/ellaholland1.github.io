@@ -62,7 +62,7 @@ My home state of Connecticut faced a lot of adversity when it came to stopping t
 
 ## Top 10 Most Visited Cities in Europe
 
-Europe is a continent with rich histories and unique cultures. It boasts magnificent sites and experiences, making it a hub for tourists around the globe. In the time of the coronavirus pandemic, travel has been limited in the EU. However, before the pandemic raged across the globe, the ten most visited cities in Europe were lively places to explore. What makes these places so special to visit, and how will these cities continue to grow and attract visitors in the future?
+Europe is a continent with rich histories and unique cultures. It boasts magnificent sites and experiences, making it a hub for tourists around the world. In the time of the coronavirus pandemic, travel has been limited in the EU. However, before the pandemic raged across the globe, the ten most visited cities in Europe were lively places to explore. What makes these places so special to visit, and how will these cities continue to grow and attract visitors in the future?
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1PtC6RSuycZyuysgZvjEgw-xkfcg0u-cG" width="640" height="480"></iframe>
 
