@@ -10,6 +10,8 @@ I am taking the course Data Journalism to learn about the interdisciplinary work
 
 I am from Fairfield, Connecticut, and growing up outside of New York City, I have seen how news stories are necessary to daily life, along with the data that informs it. I am very excited to learn more about storytelling with data, especially in the groundbreaking events of this time! With data, we can educate and inform in tandem with stories.
 
+I have found that being able to tell stories through data is a skill necessary for the twenty-first century. Data is captivating, and finding the patterns and the links between data points and their implications can tell stories of utmost importance. I have found a true passion for data journalism, and see how important it is in day-to-day life.
+
 > _Education is the most powerful weapon which you can use to change the world._ - Nelson Mandela
 
 
@@ -35,12 +37,12 @@ This timeline shows the evolution of the trailblazer of the online world that is
 
 ## Human Development Index 2018
 
-This data on the Human Development Index in 2018 compares every country in the world in their raw number HDI. Human Development Index is a statistic measure that evaluates life expectancy, education, and per capita income indicators to rank countries into tiers, with 0 being the lowest development and 1 the highest. The bar graph allows every country to be compared side by side to evaluate the human development index of the entire globe. The list is in alphabetical order, and therefore shows the spread of values in a very randomized order. 
+This data on the Human Development Index in 2018 compares every country in the world in their raw number HDI. Human Development Index is a statistic measure that evaluates life expectancy, education, and per capita income indicators to rank countries into tiers, with 0 being the lowest development and 1 the highest. The bar graph allows every country to be compared side by side to evaluate the human development index of the entire globe. The list is in alphabetical order, and therefore shows the spread of values in a very randomized order. I think that this graph shows how expansive the range is, and how diverse the world's population falls when it comes to human development. The implications of globalization and imperialism created large discrepancies in this modern day, and especially in today's global pandemic, human development is critical.
 
 ![HDI.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/HDI.png?raw=true)
  
  
- ## Harvard Data on Parent and Child Income 
+## Harvard Data on Parent and Child Income 
  
  This data shows the correlation between parent and child income, with regard to undergraduate studies. The graph shows a strong correlation between parent and child income, however interestingly enough there are few outliers where children have significantly higher incomes than their parents before them. Generational opportunity shows that children are most likely to have similar income as their parents before them. However, this correlation can be broken many times in the United States when students attend Ivy League or highly competetive schools, oftentimes as first generation students. 
  
@@ -48,7 +50,7 @@ This data on the Human Development Index in 2018 compares every country in the w
 
 ## Connecticut Confirmed COVID-19 Cases by Date
 
-My home state of Connecticut faced a lot of adversity when it came to stopping the spread of COVID-19 when cases surged in early spring. I can remember March 12th, unbeknownst to me, my last day of senior year, and the strict quarantine to come for months. Connecticut, and especially my home of Fairfield County live symbiotically with New York City, the epicenter of the virus, facing tremendous loss in early spring. Governor Ned Lamont, and others like Governor Cuomo showed leadership by keeping faith in their communities while having to shut down their economies, something other states were too afraid to do. As this graph shows, since March, Connecticut has been able to "flatten the curve," a phrase that took to everyone's vocabularies this year. After extreme spikes in April, Connecticut has slowed the spread of coronavirus and hopefully can be an example of how to live for the common good in the tumultuous times of this pandemic.
+My home state of Connecticut faced a lot of adversity when it came to stopping the spread of COVID-19 when cases surged in early spring. I can remember March 12th, unbeknownst to me, my last day of senior year, and the strict quarantine to come for months. Connecticut, and especially my home of Fairfield County live symbiotically with New York City, the epicenter of the virus, facing tremendous loss in early spring. Governor Ned Lamont, and others like Governor Cuomo showed leadership by keeping faith in their communities while having to shut down their economies, something other states were too afraid to do. As this graph shows, since March, Connecticut has been able to "flatten the curve," a phrase that took to everyone's vocabularies this year. After extreme spikes in April, Connecticut has slowed the spread of coronavirus, but seen spikes in recent months. Hopefully Connecticut can be an example of how to live for the common good in the tumultuous times of this pandemic, as we wait hopefully on the brink of a nationwide vaccine.
 
 ![CT Covid Cases](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/CT%20Covid%20Cases.png?raw=true)
 
@@ -58,6 +60,8 @@ My home state of Connecticut faced a lot of adversity when it came to stopping t
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bl2Uelw-jIGjWf3w6VtyjZZg9ve-fmD8" width="640" height="480"></iframe>
 
 ## Top 10 Most Visited Cities in Europe
+
+Europe is a continent with rich histories and unique cultures. It boasts magnificent sites and experiences, making it a hub for tourists around the globe. In the time of the coronavirus pandemic, travel has been limited in the EU. However, before the pandemic raged across the globe, the ten most visited cities in Europe were lively places to explore. What makes these places so special to visit, and how will these cities continue to grow and attract visitors in the future?
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1PtC6RSuycZyuysgZvjEgw-xkfcg0u-cG" width="640" height="480"></iframe>
 
