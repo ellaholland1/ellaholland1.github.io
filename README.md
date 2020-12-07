@@ -15,6 +15,7 @@ I have found that being able to tell stories through data is a skill necessary f
 > _Education is the most powerful weapon which you can use to change the world._ - Nelson Mandela
 
 
+
 ## Lehigh Ethnic Makeup Statistics 2019
 
 ![Lehigh Diversity Demographics](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Lehigh%20Diversity%20Demographic.png?raw=true)
@@ -25,15 +26,21 @@ For more information about Lehigh statistics, and to visit the source, go to:
 <https://www1.lehigh.edu/about/university-statistics>
 
 
+
 ## Lehigh-Lafayette Football
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Y-AGfwXBrCVrxDupVtjHrVc16nHkLxuQJVgyUY-DUCY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
 
 ## The History of Facebook
 
 This timeline shows the evolution of the trailblazer of the online world that is Facebook. Mark Zuckerberg, the company CEO created the company without the intent of creating the world's most globalized platform, but it's turnout changed the course of the virtual world forever. This timeline shows how Facebook began and evolved, and continues to change the world. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NFq-JGbI8SXzeEtwwe5dnYv4SLn9i6qIvXpuXSPksbE&font=Fjalla-Average&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+
 
 ## Human Development Index 2018
 
@@ -43,11 +50,16 @@ This data on the Human Development Index in 2018 compares every country in the w
 ![HDI.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/HDI.png?raw=true)
  
  
+ 
+ 
 ## Harvard Data on Parent and Child Income 
  
  This data shows the correlation between parent and child income, with regard to undergraduate studies. The graph shows a strong correlation between parent and child income, however interestingly enough there are few outliers where children have significantly higher incomes than their parents before them. Generational opportunity shows that children are most likely to have similar income as their parents before them. However, this correlation can be broken many times in the United States when students attend Ivy League or highly competetive schools, oftentimes as first generation students. 
  
  ![Harvard Data.png](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/Harvard%20Data.png?raw=true)
+
+
+
 
 ## Connecticut Confirmed COVID-19 Cases by Date
 
@@ -56,9 +68,16 @@ My home state of Connecticut faced a lot of adversity when it came to stopping t
 ![CT Covid Cases](https://github.com/ellaholland1/ellaholland1.github.io/blob/master/CT%20Covid%20Cases.png?raw=true)
 
 
+
+
 ## 2019 World's Top 20 Cycling Cities
 
+Cycling is a sport that requires scenic routes to make it enjoyable. This interactive map shows the world's top 20 cycling cities, many coincidentally concentrated in Europe. What makes a cycling city, and how are cycling practices contributing to a more green environment? These 20 cities may have the answers. 
+
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bl2Uelw-jIGjWf3w6VtyjZZg9ve-fmD8" width="640" height="480"></iframe>
+
+
+
 
 ## Top 10 Most Visited Cities in Europe
 
@@ -66,14 +85,21 @@ Europe is a continent with rich histories and unique cultures. It boasts magnifi
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1PtC6RSuycZyuysgZvjEgw-xkfcg0u-cG" width="640" height="480"></iframe>
 
+
+
+
 ## Lehigh Party Data
 
 <div class='tableauPlaceholder' id='viz1605540621495' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;W5&#47;W5ZY22MGJ&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;W5ZY22MGJ' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;W5&#47;W5ZY22MGJ&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'>  var divElement = document.getElementById('viz1605540621495');  var vizElement = divElement.getElementsByTagName('object')[0];  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='877px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
 
+
+
 ## Higher Education Data
 
 <div class='tableauPlaceholder' id='viz1604606552400' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Q9&#47;Q9K9DKXKY&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;Q9K9DKXKY' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Q9&#47;Q9K9DKXKY&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1604606552400'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
+
 
 
 # US Cities Population vs Elevation
